@@ -1,7 +1,7 @@
 ### Olá! Sou Anderson Sedano
 
 - 🔭 Em busca de uma oportunidade
-- 🌱 Estudando as ferramentas do Front-end
+- 🌱 Graduando em Ciência de Dados
 
 <div>
   <a href="https://github.com/assedano">
